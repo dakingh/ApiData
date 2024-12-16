@@ -96,9 +96,11 @@
       "isactive": true
     }
   ],
-    "qr": [
-      {
-        
-      }
-    ]
+  "qr": [
+    {
+      "nomUsuario": "Nombre del usuario",
+      "correoUsuario": "correo@ejemplo.com",
+      "rutUsuario": "12345678-9"
+    }
+  ]
 }
